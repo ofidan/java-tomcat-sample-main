@@ -6,6 +6,5 @@
   <h3> You are doing good work ... </h3>
   <h1> Latest revision </h1>  
 <h1> hello clarusway </h1> 
-<h1> hello DEVOPS ENGINEERS !!! </h1> 
 </body>
 </html>
